@@ -12,6 +12,7 @@ $ npm start
 ## Used Technologies
 - Node.js
 - Express.js
+- express-fileupload
 - MongoDB
 - Mongoose
 - EJS
